@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/micaelwollter/The%20Pipeline/_apis/build/status/aohzork.MammalAPIAzure?branchName=master)](https://dev.azure.com/micaelwollter/The%20Pipeline/_build/latest?definitionId=1&branchName=master)
